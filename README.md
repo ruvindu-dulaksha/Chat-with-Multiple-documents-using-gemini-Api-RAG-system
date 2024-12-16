@@ -42,7 +42,7 @@ GOOGLE_API_KEY=your_google_api_key_here
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/chat-with-pdfs.git
+git clone https://github.com/ruvindu-dulaksha/Chat-with-Multiple-documents-using-gemini-Api-RAG-system.git
 cd chat-with-pdfs
 ```
 
